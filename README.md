@@ -1,2 +1,2 @@
-## Big Data In Football
-Repository for projects developed throughout the program "Big Data in Football", lectured by Sports Data Campus and UCAM Murcia.
+## Big Data no Futebol
+Repositório de projetos desenvolvidos no programa "Big Data no Futebol", dado pela Sports Data Campus em parceria com a UCAM Murcia.
